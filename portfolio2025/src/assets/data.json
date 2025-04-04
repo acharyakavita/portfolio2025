@@ -1,0 +1,167 @@
+{
+  "name": "Kavitha Acharya",
+  "title": "Senior Full Stack Javascript Developer",
+  "location": "Toronto, Canada",
+  "contact": {
+    "email": "acharyakavita12@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/kavitha-acharya-60975637/",
+    "github": "https://github.com/acharyakavita"
+  },
+  "career_summary": {
+    "experience": "12+ years of software engineering experience, 6+ years in full-stack development using TypeScript, Node.js, Next.js and React.",
+    "expertise": "Expertise in building scalable backend applications using Express, SQL/NoSQL databases, Redis and GraphQL.",
+    "skills": [
+      "Responsive UI Interfaces",
+      "Headless CMS",
+      "REST API design",
+      "Microservices",
+      "Cloud services"
+    ],
+    "industries": [
+      "FinTech",
+      "eCommerce",
+      "Social Media Marketing",
+      "Insurance",
+      "Real Estate"
+    ]
+  },
+  "technical_skills": {
+    "languages_frameworks": [
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "Node.js",
+      "Redux",
+      "Express.js",
+      "HTML5",
+      "JavaScript(ES6+)",
+      "Svelte",
+      "Sanity",
+      "Fastify.js",
+      "React Native"
+    ],
+    "styling_frameworks": [
+      "CSS3",
+      "Tailwind",
+      "Styled Components",
+      "SASS",
+      "SCSS"
+    ],
+    "databases_querying": [
+      "GraphQL",
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Cassandra",
+      "Redis",
+      "Elasticsearch"
+    ],
+    "cloud_devops": [
+      "AWS (S3, CloudFront, EC2)",
+      "GCP",
+      "Docker",
+      "GitHub Actions"
+    ],
+    "tools": [
+      "Git",
+      "Bitbucket",
+      "Jira",
+      "OpenAPI",
+      "Kibana",
+      "Postman",
+      "NPM",
+      "Yarn",
+      "Datadog"
+    ],
+    "test_frameworks": [
+      "Mocha",
+      "Jest",
+      "Karma",
+      "Jasmine",
+      "Storybook",
+      "Cypress"
+    ],
+    "graph_libraries": [
+      "Plotly",
+      "Victory",
+      "D3.js"
+    ]
+  },
+  "professional_experience": [
+    {
+      "company": "Nearform",
+      "role": "Senior Software Engineer",
+      "duration": "October 2020 - February 2025",
+      "location": "Toronto, Canada (Remote)",
+      "clients": [
+        {
+          "name": "Viral Nation (Social Media Marketing Agency)",
+          "responsibilities": [
+            "Engineered and built a microservice integrating the Perigon API to fetch news articles of social media influencers using Fastify (Node.js), enhancing influencer marketing for brand safety and fit.",
+            "Created Schema’s using OpenAPI for the new API endpoints with input validations.",
+            "Implemented interactive Svelte.js (React) UI/UX components to display news data seamlessly.",
+            "Leveraged Redis for API rate limit tracking and PostgreSQL for efficient data storage.",
+            "Utilized GCP's job scheduling feature to schedule jobs at specific intervals, preventing overload on the third-party API.",
+            "Achieved 100% unit test coverage with Jest and used Cypress to perform end-to-end automation testing to ensure code reliability.",
+            "Used GitHub Actions, Docker to automate the deployment into test and production environments."
+          ]
+        },
+        {
+          "name": "Brevan Howard (UK-Based Capital Markets Company)",
+          "responsibilities": [
+            "Built and optimized stock index charts and reports for data visualization using Plotly, React, React AG Grids, React Query and TypeScript for an internal Electron-based desktop application."
+          ]
+        },
+        {
+          "name": "Techstyle (Fabletics, SavageX – US-Based E-commerce Apparel Brand)",
+          "responsibilities": [
+            "Played a key role in migrating legacy websites from ColdFusion to React (Next.js) and developing features across multiple e-commerce platforms.",
+            "Designed and built a reusable shared component library using the React Composite design pattern ensuring consistency and adaptability across all brands.",
+            "Engineered and developed core features like Quick View, Color Swatch Hover Preview, Buy Online – Pick Up In-Store and several UI components on Product Detail Page.",
+            "Ensured compliance with Figma design specifications and accessibility standards.",
+            "Implemented unit tests (React Testing Library, Storybook) and engaged in code reviews, pair programming and mentoring."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "role": "Micro UI Developer (Contract Role)",
+      "duration": "June 2020 – October 2020",
+      "location": "Toronto, Canada",
+      "client": "Scotia Bank",
+      "responsibilities": [
+        "Created and launched dynamic Micro UI pages for Scotia Bank’s AML team, enhancing the KYC refresh project efficiency and user interaction using React and Redux."
+      ]
+    },
+    {
+      "company": "WebsiteBox",
+      "role": "Software Engineer",
+      "duration": "April 2019 – June 2020",
+      "location": "Toronto, Canada",
+      "responsibilities": [
+        "Enhanced the company’s SaaS product, enabling real estate agents to create customized websites using Node.js (Express.js), AngularJS, MySQL, and Cassandra.",
+        "Integrated analytics tools like Google Analytics and Segment to track user interactions and manage leads within the product, improving sales by 30%.",
+        "Implemented new UI pages and corresponding REST APIs for new subscription plans.",
+        "Optimized MLS listing search and filtering by leveraging Elasticsearch and Kibana, improving data accessibility and reducing search time by 50%.",
+        "Integrated AWS EC2 to host client websites, S3 for asset storage and optimizing performance with CloudFront."
+      ]
+    },
+    {
+      "company": "Accenture",
+      "role": "Senior Software Engineer",
+      "duration": "June 2012 – August 2018",
+      "location": "Bangalore, India",
+      "clients": [
+        "First Data (USA)",
+        "QBE (Australian Insurance company)"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Engineering – Computer Science",
+    "cgpa": "8.48",
+    "duration": "2008 - 2012",
+    "institution": "SDM College of Engineering and Technology, Dharwad - India"
+  }
+}
