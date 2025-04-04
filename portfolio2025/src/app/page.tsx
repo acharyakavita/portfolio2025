@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-900">
 
-      <main className="max-w-4xl mx-auto mt-10 p-6">
+      <main className="max-w-4xl mx-auto p-6">
         <section id="about" className="mb-10">
           <h2 className="text-2xl font-semibold">About Me</h2>
           <p className="mt-2 text-gray-700">
