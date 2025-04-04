@@ -1,9 +1,9 @@
 
 import React from "react";
-import resumeData from '../../assets/data.json';
+import resumeData from '../../assets/resumeData.json';
 const ResumePage = () => {
   return (
-    <div className="container mx-auto py-2 text-center">
+    <div className="container mx-auto px-2 py-2 text-center">
       {/* Download Button with Icon */}
       <a href="/resume.pdf" download="Kavitha_Acharya_Resume.pdf">
         <button className="mt-8 px-6 py-3 bg-blue-500 text-white font-semibold rounded-md hover:bg-blue-600 flex items-center justify-center space-x-2">
@@ -16,7 +16,7 @@ const ResumePage = () => {
       </a>
 
 
-      <div className="container mx-auto py-20 text-center">
+      <div className="container mx-auto py-10 text-center">
         <h1 className="text-4xl font-bold">{resumeData.name}</h1>
         <p className="text-lg mt-4">{resumeData.title}</p>
         <p className="mt-2 text-gray-600">{resumeData.location}</p>
@@ -34,7 +34,7 @@ const ResumePage = () => {
         </div>
 
         {/* Career Summary */}
-        <section className="mt-8 text-left">
+        <section className="mt-8 text-left px-2">
           <h2 className="text-2xl font-semibold">Career Summary</h2>
           <ul className="list-disc pl-5">
             <li className="mt-2">{resumeData.career_summary.experience}</li>
@@ -46,7 +46,7 @@ const ResumePage = () => {
         </section>
 
         {/* Technical Skills Section */}
-        <section className="mt-8 text-left">
+        <section className="mt-8 text-left px-2">
           <h2 className="text-2xl font-semibold">Technical Skills</h2>
 
           <div className="mt-4">
@@ -114,7 +114,7 @@ const ResumePage = () => {
         </section>
 
         {/* Professional Experience */}
-        <section className="mt-8 text-left">
+        <section className="mt-8 text-left px-2">
           <h2 className="text-2xl font-semibold">Professional Experience</h2>
           {resumeData.professional_experience.map((experience, index) => (
             <div key={index} className="mt-4">
@@ -145,7 +145,7 @@ const ResumePage = () => {
         </section>
 
         {/* Education */}
-        <section className="mt-8 text-left">
+        <section className="mt-8 text-left px-2">
           <h2 className="text-2xl font-semibold">Education</h2>
           <p className="mt-2">{resumeData.education.degree} (CGPA: {resumeData.education.cgpa})</p>
           <p>{resumeData.education.duration} - {resumeData.education.institution}</p>

@@ -1,0 +1,102 @@
+{
+  "projects": [
+    {
+      "title": "Stocks Mobile Application",
+      "description": "Stocks app created using React Native and Yahoo finance API",
+      "technologies": [
+        "React Native",
+        "Expo",
+        "Typescript",
+        "Victory-native-Xl"
+      ],
+      "demo": "",
+      "github": "https://github.com/acharyakavita/stocks/tree/main",
+      "image": "/wanderNest.png"
+    },
+    {
+      "title": "Wander Nest",
+      "description": "This web application provides information on camp grounds around the world. Registered users can create/view/edit/delete/review camp grounds.",
+      "technologies": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Bootstrap",
+        "Rest API",
+        "Cloudinary",
+        "Heroku"
+      ],
+      "demo": "https://protected-ravine-86733.herokuapp.com",
+      "github": "https://github.com/acharyakavita/YelpCamp",
+      "image": "/wanderNest.png"
+    },
+    {
+      "title": "Stock Ticker",
+      "description": "This React application displays the stock data graphically by using Alpha Vantage API call. It is hosted on Firebase.",
+      "technologies": [
+        "React.js",
+        "JavaScript ES6",
+        "HTML5",
+        "CSS3",
+        "Chart.js",
+        "Rest API",
+        "Responsive"
+      ],
+      "demo": "https://stock-ticker-48b87.firebaseapp.com/",
+      "github": "https://github.com/acharyakavita/stock-Ticker",
+      "image": "/st2.png"
+    },
+    {
+      "title": "Toronto Church On The Rock Ministries",
+      "description": "This is a live website created for a church in Toronto. I have used Verse of the day API to display a new verse daily.",
+      "technologies": [
+        "JavaScript ES6",
+        "HTML5",
+        "CSS3",
+        "Ajax",
+        "Rest API",
+        "Responsive"
+      ],
+      "demo": "http://www.torontochurchontherock.com/",
+      "github": "https://github.com/acharyakavita/Toronto-Church-on-the-Rock-Ministries",
+      "image": "/church.png"
+    },
+    {
+      "title": "Arcade Game",
+      "description": "This project is a fun game to cross a river while being attacked by giant bugs. Additional points are gained on collecting precious jewels on the way.",
+      "technologies": [
+        "JavaScript ES6",
+        "HTML5",
+        "CSS3",
+        "Responsive"
+      ],
+      "demo": "https://arcade-game-53075.firebaseapp.com/",
+      "github": "https://github.com/acharyakavita/Arcade-Game",
+      "image": "/arcade.png"
+    },
+    {
+      "title": "Memory Matching Game",
+      "description": "This project is another fun game to match the same tiles by memorizing their position.",
+      "technologies": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Responsive"
+      ],
+      "demo": "https://memory-matching-game-2d317.firebaseapp.com/",
+      "github": "https://github.com/acharyakavita/Memory-matching-Game",
+      "image": "/memory.png"
+    },
+    {
+      "title": "RGB Color Matching Game",
+      "description": "Match the given RGB color value with given set of colors.",
+      "technologies": [
+        "JavaScript",
+        "HTML5",
+        "CSS3"
+      ],
+      "demo": "https://rgb-game-bc056.firebaseapp.com/",
+      "github": "https://github.com/acharyakavita/RGB-color-matching-game",
+      "image": "/RGB.png"
+    }
+  ]
+}
